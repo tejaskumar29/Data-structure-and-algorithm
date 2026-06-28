@@ -6,6 +6,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -40,5 +41,10 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
