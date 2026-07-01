@@ -11,6 +11,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -19,10 +20,12 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,4 +52,9 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0001-two-sum](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
