@@ -12,6 +12,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0238-product-of-array-except-self](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0001-two-sum](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
