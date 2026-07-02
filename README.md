@@ -64,4 +64,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
