@@ -86,6 +86,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0009-palindrome-number) |
 ## Dynamic Programming
 |  |
