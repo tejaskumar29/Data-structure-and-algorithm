@@ -10,6 +10,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0027-remove-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
@@ -91,6 +92,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0007-reverse-integer](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
