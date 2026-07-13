@@ -51,6 +51,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
@@ -72,6 +73,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -80,6 +82,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 ## Stack
