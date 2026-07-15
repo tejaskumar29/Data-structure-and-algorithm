@@ -96,6 +96,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0007-reverse-integer](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +118,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
