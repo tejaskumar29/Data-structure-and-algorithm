@@ -102,11 +102,13 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0009-palindrome-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
@@ -129,4 +131,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
