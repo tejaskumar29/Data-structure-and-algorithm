@@ -24,6 +24,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -132,6 +134,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
