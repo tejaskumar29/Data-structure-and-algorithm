@@ -11,6 +11,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
@@ -113,6 +114,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
@@ -151,4 +153,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
