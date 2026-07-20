@@ -25,6 +25,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
