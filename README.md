@@ -44,6 +44,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -166,4 +167,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0055-jump-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
