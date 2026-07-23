@@ -28,6 +28,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1748-sum-of-unique-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
