@@ -112,6 +112,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0007-reverse-integer](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
@@ -160,6 +161,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
 ## Simulation
