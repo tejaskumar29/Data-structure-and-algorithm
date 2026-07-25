@@ -176,4 +176,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
