@@ -116,6 +116,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
@@ -184,4 +185,12 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0182-duplicate-emails](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0196-delete-duplicate-emails) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
