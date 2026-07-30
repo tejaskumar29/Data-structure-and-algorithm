@@ -187,6 +187,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0182-duplicate-emails](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Brainteaser
 |  |
 | ------- |
