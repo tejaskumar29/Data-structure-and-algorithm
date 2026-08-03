@@ -19,6 +19,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -87,6 +88,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0001-two-sum](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -98,6 +100,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
