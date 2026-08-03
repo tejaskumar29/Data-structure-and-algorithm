@@ -25,6 +25,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1748-sum-of-unique-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -131,6 +133,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -199,4 +202,13 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
