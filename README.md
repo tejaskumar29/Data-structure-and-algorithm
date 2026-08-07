@@ -7,6 +7,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
@@ -42,6 +43,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
