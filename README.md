@@ -24,6 +24,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -44,6 +45,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0027-remove-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
