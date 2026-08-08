@@ -22,6 +22,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0134-gas-station](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +48,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0027-remove-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0344-reverse-string) |
@@ -130,6 +132,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0050-powx-n](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
