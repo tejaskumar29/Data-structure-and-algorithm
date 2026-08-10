@@ -50,6 +50,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0031-next-permutation](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -77,6 +78,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0020-valid-parentheses](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
