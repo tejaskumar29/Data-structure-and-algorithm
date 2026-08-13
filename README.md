@@ -17,6 +17,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0055-jump-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
@@ -63,6 +64,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +102,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0048-rotate-image](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
 ## Hash Table
 |  |
