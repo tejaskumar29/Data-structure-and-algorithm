@@ -73,6 +73,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0278-first-bad-version](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0875-koko-eating-bananas) |
@@ -154,6 +155,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
