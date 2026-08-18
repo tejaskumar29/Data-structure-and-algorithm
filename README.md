@@ -25,6 +25,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
@@ -57,6 +58,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -70,6 +72,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0035-search-insert-position](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
