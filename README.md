@@ -106,6 +106,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0344-reverse-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3731-find-missing-elements) |
@@ -201,6 +203,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Number Theory
 |  |
 | ------- |
