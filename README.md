@@ -97,6 +97,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0058-length-of-last-word) |
@@ -126,6 +127,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
@@ -202,6 +204,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Number Theory
