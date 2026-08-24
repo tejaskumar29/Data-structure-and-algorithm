@@ -70,6 +70,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 | [1748-sum-of-unique-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -207,6 +210,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 ## Number Theory
 |  |
 | ------- |
