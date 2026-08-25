@@ -28,6 +28,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
@@ -90,6 +91,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
