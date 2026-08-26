@@ -35,6 +35,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +82,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0069-sqrtx](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -93,6 +95,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0137-single-number-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
@@ -137,6 +140,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -153,6 +157,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3731-find-missing-elements) |
@@ -174,6 +179,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
