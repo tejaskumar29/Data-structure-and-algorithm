@@ -94,6 +94,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -207,6 +208,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
