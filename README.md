@@ -23,6 +23,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
@@ -119,6 +121,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
