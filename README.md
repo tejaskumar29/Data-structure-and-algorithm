@@ -100,6 +100,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -200,6 +201,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0055-jump-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 ## Monotonic Stack
