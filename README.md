@@ -101,6 +101,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -186,6 +187,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
@@ -241,6 +243,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0050-powx-n](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
