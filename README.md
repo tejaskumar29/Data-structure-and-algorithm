@@ -104,6 +104,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0342-power-of-four](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
@@ -194,6 +195,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
