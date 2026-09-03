@@ -73,6 +73,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
@@ -208,6 +210,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0070-climbing-stairs](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 ## Monotonic Stack
