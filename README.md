@@ -76,6 +76,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0344-reverse-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0986-interval-list-intersections) |
@@ -126,6 +127,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0392-is-subsequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
