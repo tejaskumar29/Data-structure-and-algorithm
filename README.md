@@ -45,6 +45,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0986-interval-list-intersections) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -78,6 +79,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0392-is-subsequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0986-interval-list-intersections) |
 ## Binary Search
@@ -175,6 +177,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
+| [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
 | [3731-find-missing-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -271,6 +274,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0055-jump-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0135-candy) |
+| [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
 ## Interactive
 |  |
@@ -331,4 +335,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0986-interval-list-intersections) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
