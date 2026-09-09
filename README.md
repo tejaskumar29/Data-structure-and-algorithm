@@ -42,6 +42,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0875-koko-eating-bananas) |
@@ -248,6 +249,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Number Theory
 |  |
 | ------- |
