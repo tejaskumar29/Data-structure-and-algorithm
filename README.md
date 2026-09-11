@@ -48,6 +48,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0875-koko-eating-bananas](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0986-interval-list-intersections) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -166,6 +167,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -250,6 +252,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 ## Number Theory
 |  |
 | ------- |
