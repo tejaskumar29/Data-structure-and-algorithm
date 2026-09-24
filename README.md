@@ -305,6 +305,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0595-big-countries](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1757-recyclable-and-low-fat-products](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1757-recyclable-and-low-fat-products) |
 ## Brainteaser
 |  |
