@@ -49,6 +49,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0986-interval-list-intersections) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -184,6 +185,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
 | [3731-find-missing-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -239,6 +241,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -355,4 +358,24 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
