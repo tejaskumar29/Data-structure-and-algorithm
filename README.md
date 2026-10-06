@@ -51,6 +51,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0904-fruit-into-baskets](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
+| [0969-pancake-sorting](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0986-interval-list-intersections) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1748-sum-of-unique-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1748-sum-of-unique-elements) |
@@ -86,6 +87,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0567-permutation-in-string](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
+| [0969-pancake-sorting](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
@@ -187,6 +189,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
+| [0969-pancake-sorting](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0969-pancake-sorting) |
 | [3731-find-missing-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -287,6 +290,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0135-candy](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
+| [0969-pancake-sorting](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0969-pancake-sorting) |
 ## Interactive
 |  |
 | ------- |
