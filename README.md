@@ -41,6 +41,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -170,6 +171,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -190,6 +192,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
@@ -251,11 +254,13 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
 |  |
@@ -372,6 +377,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -380,6 +386,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -389,4 +396,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
