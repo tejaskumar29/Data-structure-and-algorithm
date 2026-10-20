@@ -29,6 +29,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0137-single-number-ii) |
@@ -166,6 +167,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -400,4 +402,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
