@@ -409,4 +409,8 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
