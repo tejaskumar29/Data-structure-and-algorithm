@@ -48,6 +48,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
@@ -212,6 +213,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +256,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
