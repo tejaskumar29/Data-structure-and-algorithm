@@ -50,6 +50,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0704-binary-search](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
@@ -201,6 +202,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0347-top-k-frequent-elements](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0389-find-the-difference) |
+| [0853-car-fleet](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0948-bag-of-tokens) |
@@ -214,6 +216,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0071-simplify-path](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0853-car-fleet) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Consistent LeetCode practice in Python — solving problems across Arrays, Two P
 | [0042-trapping-rain-water](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/tejaskumar29/Data-structure-and-algorithm/tree/master/0853-car-fleet) |
 ## Divide and Conquer
 |  |
 | ------- |
